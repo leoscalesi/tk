@@ -115,4 +115,7 @@ class Aplicacion:
     
     
     
-aplicacion1=Aplicacion()
+
+  aplicacion1=Aplicacion()
+
+ # Fin de la aplicacion
